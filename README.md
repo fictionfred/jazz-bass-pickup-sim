@@ -116,7 +116,7 @@ PICKUPS["my_pickup"] = Pickup(
 
 This code was written alongside a series of articles about upgrading a Fender American Special Jazz Bass for studio recording:
 
-**[Jazz Bass Special series on toyrobot.studio](https://toyrobot.studio/series/jazz-bass-special/)**
+**[[Jazz Bass Special series on toyrobot.studio](https://toyrobot.studio/series/jazz-bass-special/)](https://toyrobot.studio/posts/jazz-bass-pickup-tonality-guide/)**
 
 ## Requirements
 
